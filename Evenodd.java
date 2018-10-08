@@ -9,8 +9,8 @@ public class Evenodd
     if ( num % 2 ==0 )
         System.out.println("even");
         else if(num > 0)
-        System.out.println("odd");
+        System.out.println("Invalid");
      else
-        System.out.println("invalid");
+        System.out.println("odd");
   }
 }
